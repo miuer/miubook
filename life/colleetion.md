@@ -1,1 +1,1 @@
-- 提问的智慧: [How-to-ask-questions-the-smart-way](http://www.catb.org/~esr/faqs/smart-questions.html)(https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+- 提问的智慧: [How-to-ask-questions-the-smart-way](http://www.catb.org/~esr/faqs/smart-questions.html)
